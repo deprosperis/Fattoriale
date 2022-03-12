@@ -18,5 +18,22 @@ git status
 git push origin master 
 mario@mario-C40:~/esempi_github/Fattoriale$ 
 
-
+2178  history 
+ 2179  vi comandiGIT.txt
+ 2180  git status
+ 2181  git commit -a ''
+ 2182  git commit -a ""
+ 2183  git commit -am ""
+ 2184  git commit -am "bu"
+ 2185  git push origin master 
+ 2186  cd ..
+ 2187  mkdir provaClone
+ 2188  cd provaClone/
+ 2189  ls -lia
+ 2190  git clone https://github.com/deprosperis/Fattoriale.git
+ 2191  ls -lia
+ 2192  cd Fattoriale/
+ 2193  ls -lia
+ 2194  history 
+mario@mario-C40:~/esempi_github/provaClone/Fattoriale$ 
 
