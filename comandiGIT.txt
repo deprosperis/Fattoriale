@@ -6,4 +6,17 @@ git config --global user.name
 git config --global user.email
 git remote add origin https://github.com/deprosperis/Fattoriale.git
 git pull origin master
+git config --global user.name
+git config --global user.email
+git remote add origin https://github.com/deprosperis/Fattoriale.git
+git pull origin master
+vi comandiGIT.txt
+git status
+git add .
+git commit -m "First release"
+git status
+git push origin master 
+mario@mario-C40:~/esempi_github/Fattoriale$ 
+
+
 
