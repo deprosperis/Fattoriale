@@ -1,0 +1,9 @@
+mkdir Fattoriale
+cd Fattoriale/
+git init
+touch index.html script.js style.css
+git config --global user.name
+git config --global user.email
+git remote add origin https://github.com/deprosperis/Fattoriale.git
+git pull origin master
+
