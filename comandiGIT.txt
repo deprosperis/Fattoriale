@@ -36,4 +36,6 @@ mario@mario-C40:~/esempi_github/Fattoriale$
  2193  ls -lia
  2194  history 
 mario@mario-C40:~/esempi_github/provaClone/Fattoriale$ 
+token:  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
+
 
